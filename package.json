@@ -1,0 +1,21 @@
+{
+    "name": "material-zero-theme",
+    "displayName": "Material Zero Theme",
+    "description": "A slight change to an excellent theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Zero",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Zero-color-theme.json"
+            }
+        ]
+    }
+}
