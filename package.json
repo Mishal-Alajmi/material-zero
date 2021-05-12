@@ -2,7 +2,7 @@
   "name": "material-zero-theme",
   "displayName": "Material Zero Theme",
   "description": "A slight change to an excellent theme",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "engines": {
     "vscode": "^1.56.0"
   },
